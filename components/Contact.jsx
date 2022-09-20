@@ -2,8 +2,8 @@ import React from 'react'
 import Link from 'next/link'
 import ContactImg from '../public/assets/contact.jpg'
 import Image from 'next/image'
-import { AiFillLinkedin, AiFillGithub,AiOutlineTwitter,AiOutlineMail} from 'react-icons/ai'
-import {RiLinkedinFill} from 'react-icons/Ri'
+import {AiFillGithub, AiOutlineTwitter, AiOutlineMail} from 'react-icons/ai'
+import {RiLinkedinFill} from 'react-icons/ri'
 import {HiOutlineChevronDoubleUp} from 'react-icons/hi'
 
 const Contact = () => {

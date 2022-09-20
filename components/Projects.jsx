@@ -1,7 +1,5 @@
-import Image from 'next/image'
 import React from 'react'
 import krypt from '../public/assets/project/krypt.png'
-import Link from 'next/link'
 import ProjectItems from './ProjectItems'
 import drawingapp from '../public/assets/project/drawing.png'
 import portfolio from '../public/assets/project/portfolio.png'

@@ -2,7 +2,7 @@ import Image from 'next/image'
 import React, {useState, useEffect} from 'react'
 import Link from 'next/link'
 import {AiOutlineClose, AiOutlineMenu,AiFillGithub, AiOutlineTwitter, AiOutlineMail} from 'react-icons/ai'
-import {RiLinkedinFill} from 'react-icons/Ri'
+import {RiLinkedinFill} from 'react-icons/ri'
 
 
 

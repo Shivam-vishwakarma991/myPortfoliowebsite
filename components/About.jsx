@@ -9,9 +9,11 @@ const About = () => {
                 <p className='uppercase text-xl tracking-widest text-[#5651e5]'> About</p>
                 <h2 className='py-4 '>Who I Am</h2> 
                 
-                <p>Hello, I'm a final year Mechanical engineering student from Bhopal Madhya Pradesh, who is entirely obsessed with Blockchain Technology. So what made a non-tech branch student fall in love with computers you ask? The simple answer to that would be my hunt for different opportunities in the Tech field.</p>
+                <p>Hello, I'm a final year Mechanical engineering student from Bhopal Madhya Pradesh, who is Passionate about Blockchain Technology. So what made a non-tech branch student fall in love with computers you ask? The simple answer to that would be my hunt for different opportunities in the Tech field.</p>
                 
-                <p className='py-2'> My journey of blockchain started when I first invested in cryptocurrency. It's been more than a year now since I started learning the decentralized world.Now talking about my technical skills, my proficiency lies in both front-end and blockend development, to get the hands on experence I spend most of my time crafting and working on awesome projects and learning new technologies along the way.</p>
+                <p className='py-2'> My journey of tech started with learning the basics of frontend development 
+            with HTML and CSS and javascript.Fascinated with how intricate programming can be I was quickly drawn
+            to learn more, along the way I came across with Blockchain technology and now that mechanical engineer is on his way to become a successfull Blockchain developer. It's been more than a year now since I started learning the decentralized world. In this passage of time I made myself familiar with both front-end and blockend development, to get the hands on experence I spend most of my time crafting and working on awesome projects and learning new technologies along the way.</p>
                 <Link href='/#projects'>
                 <p  className='py-2 text-gray-600 cursor-pointer underline'>Check out some of my latest projects</p>
                 </Link>

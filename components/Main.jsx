@@ -1,6 +1,6 @@
 import React from 'react'
 import { AiFillLinkedin, AiFillGithub,AiOutlineTwitter,AiOutlineMail} from 'react-icons/ai'
-import {RiLinkedinFill} from 'react-icons/Ri'
+import {RiLinkedinFill} from 'react-icons/ri'
 
 const Main = () => {
   return (
